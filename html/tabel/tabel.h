@@ -5,8 +5,11 @@
     <meta name="viewport" content="width=0, initial-scale=1.0">
     <title>project</title>
 </head>
-<body>                                            
+<body>
+    
 <!--- layout-->
+
+ 
 <h3>shahed</h3>
 <nav> 
 <a href="https://www.amazon.com/" target="_blank">Home</a>
